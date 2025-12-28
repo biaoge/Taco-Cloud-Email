@@ -1,1 +1,1 @@
-This repo is a review of Spring in Action version 5 chapter 9.3. It looks like integration flow is no longer popular going forward, so the code in this repo is not fully tested, just verified it passed the build process... (mvn clean package)
+This repo is a review of Spring in Action version 5 chapter 9.3. It looks like integration flow is no longer popular going forward, so the code in this repo is not fully tested, just verified it passed the build process... (`mvn clean package`)
